@@ -13,7 +13,7 @@ reinforce learning and demonstrate practical web security skills.
 
 | Category           | Completed | Total | Status      |
 |--------------------|-----------|-------|-------------|
-| SQL Injection      | 0         | 18    | In progress |
+| SQL Injection      | 3         | 18    | In progress |
 | XSS                | 0         | 12    | Not started |
 | Authentication     | 0         | 9     | Not started |
 | Access Control     | 0         | 13    | Not started |
