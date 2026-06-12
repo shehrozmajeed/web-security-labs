@@ -39,5 +39,5 @@ Each lab file contains:
 - PortSwigger's in-browser lab environment
 
 ## Connect
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+- LinkedIn: https://www.linkedin.com/in/shehroz-majeed-a46a012b8/
+- GitHub: 
